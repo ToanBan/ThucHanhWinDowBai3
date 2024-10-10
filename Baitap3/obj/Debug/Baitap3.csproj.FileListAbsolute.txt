@@ -1,0 +1,11 @@
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\bin\Debug\Baitap3.exe.config
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\bin\Debug\Baitap3.exe
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\bin\Debug\Baitap3.pdb
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.csproj.AssemblyReference.cache
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.Form1.resources
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.Properties.Resources.resources
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.csproj.GenerateResource.cache
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.csproj.CoreCompileInputs.cache
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.exe
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.pdb
+D:\Workspace\laptrinhwindow\2280600252_LeToanBan\Baitap3\obj\Debug\Baitap3.Input.resources
